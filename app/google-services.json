@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "416924266648",
+    "firebase_url": "https://huawei-tool-kit-example.firebaseio.com",
+    "project_id": "huawei-tool-kit-example",
+    "storage_bucket": "huawei-tool-kit-example.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:416924266648:android:8eda66a5630655010760ed",
+        "android_client_info": {
+          "package_name": "com.huawei.huaweitoolkitexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "416924266648-na80vfgqb59a85n11gmfnqil2iqrbokj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcPF4mTarIUXl7X-fEDYxNTdCkNdinlII"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "416924266648-na80vfgqb59a85n11gmfnqil2iqrbokj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
